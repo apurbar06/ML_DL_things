@@ -67,9 +67,10 @@ The `deeplearning.mplstyle` file contains matplotlib styles for the project. The
 
 To get started with this project:
 
-1. Clone the repository: `git clone https://github.com/apurbar06/ML_DL.git`
-2. Install the required dependencies: `pip install -r requirements.txt`
-3. Run the `main.ipynb` notebook: `jupyter notebook main.ipynb`
+1. Clone the repository: `https://github.com/apurbar06/ML_DL_things.git`
+2. Move to directory: `cd .\handwritten_digit_recognition_ml\`
+3. Install the required dependencies: `pip install <package_name>`
+4. Run the `main.ipynb`
 
 ## Dependencies
 
